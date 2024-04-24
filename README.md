@@ -1,9 +1,5 @@
 ### Hi there 👋
 I am an experienced Web Developer specializing in the MERN/MEAN stack, always passionate about learning new technologies.
-
-<h3>Linkedin Profile</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maumita-sarkar-0a494b66" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/maumita-sarkar-0a494b66?trk=profile-badge">Maumita Sarkar</a></div><br/>
-
               
 <div>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7f8b9f151355d25594d32ec475d2e74c423057a23b909180962fc0a1704f7d65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"><img src="https://camo.githubusercontent.com/7f8b9f151355d25594d32ec475d2e74c423057a23b909180962fc0a1704f7d65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="React" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;"></a>
